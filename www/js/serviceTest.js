@@ -30,6 +30,7 @@ it('Chat Service all call',inject(function(Chats){
 
 });
 
+/* Testing Our Controllers */
 
 describe("Testing Chat Controllers",function(){
 
